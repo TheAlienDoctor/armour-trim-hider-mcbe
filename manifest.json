@@ -1,9 +1,9 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
+		"description": "§rDisabled armour trims from rendering | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+		"name": "§1§lAlien's§r §eArmour Trim Hider §4(RP-V1.0.0)§r",
+		"uuid": "86afb094-fddd-4f29-800e-55d173f40eb7",
 		"version": [
 			1,
 			0,
@@ -11,15 +11,15 @@
 		],
 		"min_engine_version": [
 			1,
-			19,
-			60
+			20,
+			0
 		]
 	},
 	"modules": [
 		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
+			"description": "§rDisabled armour trims from rendering | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"type": "resources",
+			"uuid": "3a657d08-bf78-49db-a04c-f25ca6490434",
 			"version": [
 				1,
 				0,
